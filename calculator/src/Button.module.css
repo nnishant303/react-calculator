@@ -1,0 +1,12 @@
+.Button_container {
+  margin-top: 20px;
+}
+
+.Button {
+  width: 81px;
+  height: 81px;
+  font-size: 25px;
+  margin: 3px;
+  background-color: rgb(19, 3, 8);
+  color: white;
+}
